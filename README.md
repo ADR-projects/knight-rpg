@@ -1,3 +1,3 @@
-## my first godot game
+## my first godot game - rookie knight
 <img src = "/art/ss.png" />
-### Kill the goblins & orcs, level up
+### Kill goblins to level up!
