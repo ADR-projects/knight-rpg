@@ -1,4 +1,4 @@
 ## my first godot game 
 <img src = "/art/ss.png" />
 
-### Kill goblins to level up!
+### Development in progress! Will try to deploy on web.
